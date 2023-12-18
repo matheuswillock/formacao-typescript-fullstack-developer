@@ -42,10 +42,9 @@ temos 3 formas de declarar variaveis em TS.
 - number
 - any
 - Array
-  - Declaramos array da seguinte formas:
+- Declaramos array da seguinte formas:
     1.
-
-    ```typescript
+  ```typescript
     const personList: Array<Person> = [
     	person1, person2, person3
     ]
