@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Poo",
-    "\\Poo\\class"
+    "\\Poo"
   ],
-  "SelectedNode": "\\Poo\\class\\DioAccount.ts",
+  "SelectedNode": "\\Poo\\app.ts",
   "PreviewInSolutionExplorer": false
 }
