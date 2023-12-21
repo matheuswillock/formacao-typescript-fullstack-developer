@@ -1,16 +1,16 @@
 # Desenvolvendo o Dio Bank
 desenvolvido por [Matheus Willock](https://github.com/matheuswillock)
 
-#### Projeto desenvolvido com conceitos b·sicos de typescript atravÈs das aulas ministradas pela [Nathally Souza](https://github.com/nathyts)
+#### Projeto desenvolvido com conceitos b√°sicos de typescript atrav√©s das aulas ministradas pela [Nathally Souza](https://github.com/nathsouzadev)
 
 ### Tecnologias
 - Typescript
 
 ### Como rodar o projeto
 
-1 - Clone o repositÛrio
+1 - Clone o reposit√≥rio
 
-2 - Instale as dependeÍncias
+2 - Instale as depende√™ncias
     
     npm install
 
@@ -19,20 +19,20 @@ desenvolvido por [Matheus Willock](https://github.com/matheuswillock)
     npm run dev
 
 #### Desafios
-[ ] Implementar os mÈtodos de depÛsito (deposit) e saque (withdraw) na classe DioAccount
-  - Os valores dos saldos devem ser alterados, de acordo com o valor informado para depÛsito
+[ ] Implementar os m√©todos de dep√≥sito (deposit) e saque (withdraw) na classe DioAccount
+  - Os valores dos saldos devem ser alterados, de acordo com o valor informado para dep√≥sito
   - Apenas contas com o status true e saldo (balance) maior que o valor solicitado podem fazer saques
 
-[ ] Implementar o mÈtodo de emprÈstimo (getLoan) na classe CompanyAccount
-  - Os valores do saldos deve ser acrescidos, de acordo com o valor informado para emprÈstimo
-  - Apenas contas com o status true podem fazer emprÈstimo
+[ ] Implementar o m√©todo de empr√©stimo (getLoan) na classe CompanyAccount
+  - Os valores do saldos deve ser acrescidos, de acordo com o valor informado para empr√©stimo
+  - Apenas contas com o status true podem fazer empr√©stimo
 
 [ ] Criar um novo tipo de conta a partir da DioAccount
-  - Esta conta n„o deve receber novos atributos
-  - Esta conta ter· um mÈtodo de depÛsito, que acresce 10 a mais ao valor informado para depÛsito. (Ex: Um depÛsito de 100, ser· de 110 no final)
+  - Esta conta n√£o deve receber novos atributos
+  - Esta conta ter√° um m√©todo de dep√≥sito, que acresce 10 a mais ao valor informado para dep√≥sito. (Ex: Um dep√≥sito de 100, ser√° de 110 no final)
 
 [ ] Todos os atributos de qualquer conta devem ser privados
 
-[ ] Os atributos name e accountNumber n„o podem ser alterados internamente ou externamente
+[ ] Os atributos name e accountNumber n√£o podem ser alterados internamente ou externamente
 
-[ ] Criar instancias para cada um dos tipos de conta no app.ts e executar os mÈtodos possÌveis.
+[ ] Criar instancias para cada um dos tipos de conta no app.ts e executar os m√©todos poss√≠veis.
